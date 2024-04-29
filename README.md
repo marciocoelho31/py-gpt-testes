@@ -1,4 +1,4 @@
-# OpenAI: Curso 3
+# OpenAI e Python: otimizando o desenvolvimento de testes com IA
 
 ## ⚙️ Configuração do Ambiente
 
